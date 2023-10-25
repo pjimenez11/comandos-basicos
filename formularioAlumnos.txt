@@ -2,9 +2,9 @@
 ############### FORMULARIO ALUMNOS ##################
 #####################################################
 
-CEDULA:
-NOMBRES:
-APELLIDOS:
-CORREO:
-DIRECCION:
-F. NACIMIENTO:
+CEDULA: 2101031025
+NOMBRES: PATRICIO DANIEL
+APELLIDOS: JIMENEZ LOOR
+CORREO: pauta.edu.ec
+DIRECCION: AMBATO
+F. NACIMIENTO: 25/10/2003
